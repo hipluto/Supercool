@@ -6,4 +6,6 @@ Shoes
 Sunglass
 Trimmer
 Jacket
+Water
+phone
 -----------
